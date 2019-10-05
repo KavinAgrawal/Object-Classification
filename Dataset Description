@@ -1,0 +1,21 @@
+The dataset consists of a train and test set provided as separate tar.gz archives linked below on this page. Each of them have three folder, one for each class containing the respective image samples. You should use the training data to train yous model and use the testing data to generate the solutions file in the following format as a "rollNumber.csv file". A sample solutions file is provided below.
+
+imageId,label
+
+1000,3
+
+1001,2
+
+1002,2
+
+1003,1
+
+1004,2
+
+The labels as follows:
+
+1 - aircraft
+
+2 - ship
+
+3 - none
