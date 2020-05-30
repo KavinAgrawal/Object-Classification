@@ -1,4 +1,5 @@
-GNR638: ML4RS - Fall 2019 - IIT Bombay
+##GNR638: ML4RS - Fall 2019 - IIT Bombay
+
 Introduction
 Remote sensing satellite constellations image our entire planet every day and generate massive amounts of data. With growing data volumes, it is becoming impossible for humans to process and extract useful information from it. Machine learning can help us do this with the help of computers. In this assignment, we will detect the contents of a satellite image.
 
